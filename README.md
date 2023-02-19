@@ -1,14 +1,19 @@
 <p align="center">
-    <img alt="Logo code coffee" src="./images/">
+    <img alt="Logo code coffee" src="./src/images/logo.jpg">
 </p>
 
-<h1 align="center"><strong>Table of contents</strong></h1>
+#
 
 <p align="center">
   <a href="#page_with_curl-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#triangular_ruler-my-process">My Process</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#speech_balloon-contact">Contact</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="Code Coffee Page" src="./src/read/code-coffee.gif" width="78%">
+  <img alt="Code Coffee Mobile Page" src="./src/read/code-coffee-mobile-screen.gif" width="19%">
 </p>
 
 #
@@ -19,13 +24,6 @@
 Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
 
 - Having a responsive layout, so that my end user doesn't have problems, regardless of the screen size they are using to access.
-
-<p align="center">
-  <img alt="Code Coffee Page" src="./src/read/code-coffee.gif" width="78%">
-  <img alt="Code Coffee Mobile Page" src="./src/read/code-coffee-mobile-screen.gif" width="19%">
-</p>
-
-
 
 ### Links 
 - Live Site URL: https://lipeaniceto.github.io/code-coffee-page/index.html
