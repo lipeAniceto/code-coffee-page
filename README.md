@@ -2,7 +2,7 @@
 
 <span align="center">
 
-  [Overview](#:bookmark_tabs: Overview)&nbsp;|&nbsp;
+  [Overview](#:bookmark_tabs:-overview)&nbsp;|&nbsp;
   [My process](#my-process)&nbsp;|&nbsp;
   [Contact](#contact)
 
