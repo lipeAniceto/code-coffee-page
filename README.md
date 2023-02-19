@@ -1,8 +1,8 @@
 <h1 align="center"><strong>Table of contents</strong></h1>
 
 <p align="center">
-  <a href="#page_with_curl-overview">Overwiew</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-technologies">Technologies</a>
+  <a href="#page_with_curl-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#triangular_ruler-my-process">My Process</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -28,7 +28,7 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 
 
 
-## My process
+## :triangular_ruler: My process
 
 ### Built with
 - Semantic HTML5 markup
