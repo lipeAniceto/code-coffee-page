@@ -4,7 +4,7 @@
   <a href="#page_with_curl-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#triangular_ruler-my-process">My Process</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#speech_balloon-contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 #
@@ -46,6 +46,6 @@ My focus on the next projects will still be on the front-end, very enthusiastic 
 
 
 
-## Contact
+## :speech_balloon: Contact
 - Gmail: contato.felipeaniceto@gmail.com
 - Linkedin: [https://www.linkedin.com/in/felipe-aniceto-32a512243/](https://www.linkedin.com/in/felipe-aniceto-32a512243/)
