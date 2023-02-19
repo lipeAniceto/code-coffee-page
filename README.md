@@ -1,11 +1,12 @@
 <h1 align="center"><strong>Table of contents</strong></h1>
 
-<p align="center">
-  <a href="#📃-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🎯-my-process">My process</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#👨🏻‍💻-contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+<span align="center">
+
+  [Overview](#📃-overview)&nbsp;|&nbsp;
+  [My process](#🎯-my-process)&nbsp;|&nbsp;
+  [Contact](#👨🏻‍💻-contact)
+
+</span>
 
 #
 
