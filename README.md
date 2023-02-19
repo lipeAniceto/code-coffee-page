@@ -40,13 +40,13 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-#
+
 
 ### What I learned
 <br>
 One of the goals of this project was to build it without the CSS Grid and Flexbox properties, so it was a project where we used a lot of display and position to leave the elements in their place. But one of the things I learned most about this project was the practical use of the media quare to make the site fully responsive.
 
-#
+
 
 ### Continued development
 <br>
