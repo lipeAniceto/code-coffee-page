@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Logo code coffee" src="./images/">
+</p>
+
 <h1 align="center"><strong>Table of contents</strong></h1>
 
 <p align="center">
