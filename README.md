@@ -18,8 +18,8 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 <br>
 
 
-<img alt="Code Coffee Page" src="./src/read/code-coffee.gif" width="79%">
-<img alt="Code Coffee Page" src="./src/read/code-coffee-mobile-screen.gif" width="19%">
+<img alt="Code Coffee Page" src="" width="70%">
+<img alt="Code Coffee Page" src="" width="17%">
 
 #
 
