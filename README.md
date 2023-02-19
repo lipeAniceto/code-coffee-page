@@ -4,7 +4,7 @@
   <a href="#page_with_curl-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#triangular_ruler-my-process">My Process</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#speech_balloon-contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#speech_balloon-contact">Contact</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 #
