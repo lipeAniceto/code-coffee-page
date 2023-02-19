@@ -28,7 +28,7 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 ### Links 
 <br>
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://lipeaniceto.github.io/code-coffee-page/index.html
 
 #
 
