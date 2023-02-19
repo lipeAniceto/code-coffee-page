@@ -56,6 +56,5 @@ My focus on the next projects will still be on the front-end, very enthusiastic 
 #
 
 ## Contact
-
 - Gmail: contato.felipeaniceto@gmail.com
 - Linkedin: [https://www.linkedin.com/in/felipe-aniceto-32a512243/](https://www.linkedin.com/in/felipe-aniceto-32a512243/)
