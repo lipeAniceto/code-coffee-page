@@ -16,7 +16,6 @@
 Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
 
 - Having a responsive layout, so that my end user doesn't have problems, regardless of the screen size they are using to access.
-<br>
 
 <p align="center">
   <img alt="Code Coffee Page" src="./src/read/code-coffee.gif" width="70%">
@@ -26,8 +25,6 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 
 
 ### Links 
-<br>
-
 - Live Site URL: https://lipeaniceto.github.io/code-coffee-page/index.html
 
 
