@@ -17,8 +17,8 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 - Having a responsive layout, so that my end user doesn't have problems, regardless of the screen size they are using to access.
 
 <p align="center">
-  <img alt="Code Coffee Page" src="./src/read/code-coffee.gif" width="70%">
-  <img alt="Code Coffee Mobile Page" src="./src/read/code-coffee-mobile-screen.gif" width="17%">
+  <img alt="Code Coffee Page" src="./src/read/code-coffee.gif" width="78%">
+  <img alt="Code Coffee Mobile Page" src="./src/read/code-coffee-mobile-screen.gif" width="19%">
 </p>
 
 
