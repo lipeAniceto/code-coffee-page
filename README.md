@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Table of contents</strong></h1>
+:rocket: <h1 align="center"><strong>Table of contents</strong></h1>
 
 <span align="center">
 
