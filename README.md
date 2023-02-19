@@ -2,7 +2,7 @@
 
 <span align="center">
 
-  [Overview](#:bookmark_tabs:overview)&nbsp;|&nbsp;
+  [Overview](#:bookmark_tabs: Overview)&nbsp;|&nbsp;
   [My process](#my-process)&nbsp;|&nbsp;
   [Contact](#contact)
 
@@ -10,7 +10,7 @@
 
 #
 
-##  :bookmark_tabs:Overview
+##  :bookmark_tabs: Overview
 
 ### The challenge
 Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
