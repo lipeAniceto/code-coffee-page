@@ -1,16 +1,14 @@
 <h1 align="center"><strong>Table of contents</strong></h1>
 
-<span align="center">
-
-  [Overview](# :bookmark_tabs:-overview)&nbsp;|&nbsp;
-  [My process](#my-process)&nbsp;|&nbsp;
-  [Contact](#contact)
-
-</span>
-
+<p align="center">
+  <a href="#page_with_curl-about">Overwiew</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-technologies">Technologies</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 #
 
-##  :bookmark_tabs: Overview
+## :page_with_curl: Overview
 
 ### The challenge
 Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
