@@ -1,8 +1,8 @@
-:rocket: <h1 align="center"><strong>Table of contents</strong></h1>
+<h1 align="center"><strong>Table of contents</strong></h1>
 
 <span align="center">
 
-  [Overview](#overview)&nbsp;|&nbsp;
+  [Overview](#:bookmark_tabs:overview)&nbsp;|&nbsp;
   [My process](#my-process)&nbsp;|&nbsp;
   [Contact](#contact)
 
@@ -10,7 +10,7 @@
 
 #
 
-## Overview
+##  :bookmark_tabs:Overview
 
 ### The challenge
 Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
