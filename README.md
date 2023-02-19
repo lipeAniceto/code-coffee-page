@@ -2,15 +2,15 @@
 
 <span align="center">
 
-  [Overview](#📃-overview)&nbsp;|&nbsp;
-  [My process](#🎯-my-process)&nbsp;|&nbsp;
-  [Contact](#👨🏻‍💻-contact)
+  [Overview](#overview)&nbsp;|&nbsp;
+  [My process](#my-process)&nbsp;|&nbsp;
+  [Contact](#contact)
 
 </span>
 
 #
 
-## 📃 Overview
+## Overview
 
 ### The challenge
 Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
@@ -32,7 +32,7 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
 
 #
 
-## 🎯 My process
+## My process
 
 ### Built with
 <br>
@@ -52,9 +52,10 @@ One of the goals of this project was to build it without the CSS Grid and Flexbo
 <br>
 
 My focus on the next projects will still be on the front-end, very enthusiastic about the studies I hope to create increasingly complex projects using programming languages and frameworks.
+
 #
 
-## 👨🏻‍💻 Contact
+## Contact
 <br>
 
 - Gmail: contato.felipeaniceto@gmail.com
