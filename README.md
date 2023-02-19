@@ -23,14 +23,14 @@ Code Café - Our objective was to create a Landing Page for a gourmet coffee sho
   <img alt="Code Coffee Mobile Page" src="./src/read/code-coffee-mobile-screen.gif" width="17%">
 </p>
 
-#
+
 
 ### Links 
 <br>
 
 - Live Site URL: https://lipeaniceto.github.io/code-coffee-page/index.html
 
-#
+
 
 ## My process
 
@@ -53,7 +53,7 @@ One of the goals of this project was to build it without the CSS Grid and Flexbo
 
 My focus on the next projects will still be on the front-end, very enthusiastic about the studies I hope to create increasingly complex projects using programming languages and frameworks.
 
-#
+
 
 ## Contact
 - Gmail: contato.felipeaniceto@gmail.com
