@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="#page_with_curl-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#triangular_ruler-my-process">My Process</a>
+  <a href="#triangular_ruler-meu-processo">Meu processo</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#speech_balloon-contact">Contact</a>&nbsp;&nbsp;&nbsp;
+  <a href="#speech_balloon-contato">Contato</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -20,34 +20,34 @@
 
 ## :page_with_curl: Overview
 
-### The challenge
-Code Café - Our objective was to create a Landing Page for a gourmet coffee shop, based on the design and materials that we were given.
+### O Desafio
+Code Café - Nosso objetivo, criar uma Landing Page para uma cafeteria gourmet, a partir do design e dos materiais que nos foi passado.
 
-- Having a responsive layout, so that my end user doesn't have problems, regardless of the screen size they are using to access.
+- Ter um layout responsivo, para que o meu usuário final não tenha problemas, independente do tamanho da tela que ele esteja usando para acessar.
 
 ### Links 
-- Live Site URL: https://lipeaniceto.github.io/code-coffee-page/index.html
+- Site URL: https://lipeaniceto.github.io/code-coffee-page/index.html
 
 
 
-## :triangular_ruler: My process
+## :triangular_ruler: Meu processo
 
-### Built with
-- Semantic HTML5 markup
-- CSS custom properties
-- Mobile-first workflow
-
-
-### What I learned
-One of the goals of this project was to build it without the CSS Grid and Flexbox properties, so it was a project where we used a lot of display and position to leave the elements in their place. But one of the things I learned most about this project was the practical use of the media quare to make the site fully responsive.
+### Construído com
+- Marcação HTML5 semântica
+- Estilização com CSS
+- Mobile-first
 
 
-
-### Continued development
-My focus on the next projects will still be on the front-end, very enthusiastic about the studies I hope to create increasingly complex projects using programming languages and frameworks.
+### O que eu aprendi
+Um dos objetivos deste projeto era construí-lo sem as propriedades de CSS Grid e Flexbox, então foi um projeto onde usamos bastante display e position para deixar os elementos em seu lugares. Mas um dos aprendizados que mais gostei neste projeto, foi o uso na prática do media quare para deixar o site totalmente responsivo.
 
 
 
-## :speech_balloon: Contact
+### Desenvolvimento contínuo
+Meu foco nos próximos projetos ainda será no front-end, muito entusiasmado com os estudos, espero criar projetos cada vez mais complexos e com uso de Linguagens de programação e Frameworks
+
+
+
+## :speech_balloon: Contato
 - Gmail: contato.felipeaniceto@gmail.com
 - Linkedin: [https://www.linkedin.com/in/felipe-aniceto-32a512243/](https://www.linkedin.com/in/felipe-aniceto-32a512243/)
