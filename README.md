@@ -35,7 +35,6 @@ Code Café - Nosso objetivo, criar uma Landing Page para uma cafeteria gourmet, 
 ### Construído com
 - Marcação HTML5 semântica
 - Estilização com CSS
-- Mobile-first
 
 
 ### O que eu aprendi
